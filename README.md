@@ -9,8 +9,7 @@ La película **La Bella Durmiente** se caracteriza por su estilo visual único, 
 
 ![Diseño Visual](https://images.blu-ray.com/movies/covers/555_front.jpg)
 
-### Eyvind Earle
-[](https://disneyanstimed.blogspot.com/2014/07/eyvind-earle-y-la-bella-durmiente.html)
+### [Eyvind Earle](https://disneyanstimed.blogspot.com/2014/07/eyvind-earle-y-la-bella-durmiente.html)
 
 
 ## Música y Coreografía

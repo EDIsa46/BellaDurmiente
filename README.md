@@ -27,11 +27,11 @@ En 2008, Disney llevó a cabo una restauración digital completa de **La Bella D
 
 *** ***1. Limpieza y Reparación de Fotogramas:*** ***
 ```
-Cada fotograma de la película fue escaneado y limpiado digitalmente para eliminar cualquier imperfección, como polvo, arañazos y otros daños que se habían acumulado con el tiempo.
+Cada fotograma de la película fue escaneado y limpiado digitalmente para eliminar cualquier     imperfección, como polvo, arañazos y otros daños que se habían acumulado con el tiempo.
 
 ```
 
-*** ***2. Mejora de la Calidad de Imagen:*** ***
+***2. Mejora de la Calidad de Imagen:***
 ```
 La película fue restaurada a una resolución de alta definición (1080p), lo que permitió una mayor claridad y detalle en la imagen. Se utilizó tecnología avanzada para mejorar los colores y el contraste, asegurando que la película se viera mejor que nunca.
 
